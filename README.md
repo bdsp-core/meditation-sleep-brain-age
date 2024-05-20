@@ -1,2 +1,5 @@
 # meditation-sleep-brain-age
-The code repository for the meditation and sleep EEG-based brain age project.
+
+This is the code repository for the meditation and sleep EEG-based brain age project.
+
+The dataset will be hosted on [Brain Data Science Platform (BDSP)](https://bdsp.io/). The dataset link will be added soon.
